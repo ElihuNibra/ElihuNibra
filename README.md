@@ -1,5 +1,5 @@
-<div>
-<h1>Hi, I’m Elihu Nibra</h1>
+<div align="center">
+<h1 align="center" >Hi, I’m Elihu Nibra</h1>
 </div> 
 
 - 👀 I’m interested in Web Development
